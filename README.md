@@ -2,6 +2,8 @@
 
 Here is the lovely README file for my new respository.
 
-## Main branch edit:
+## New change proposal!!
 
-Created, again, for the purpose of forcing a merge conflict.
+Here is some text, added for the purpose of creating a merge conflict, which has now been resolved
+
+We've added a new line
